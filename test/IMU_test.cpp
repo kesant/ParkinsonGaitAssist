@@ -23,7 +23,6 @@
 */
 
 #include <Arduino.h>
-#include "edge-impulse-sdk/classifier/ei_run_classifier.h"
 #include "LSM6DS3.h"
 #include "Wire.h"
 
